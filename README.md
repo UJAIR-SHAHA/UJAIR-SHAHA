@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujair-shaha&label=Profile%20views&color=0e75b6&style=flat" alt="ujair-shaha" /> </p>
 
-- 🔭 I’m currently working on **Image Detection App**
+- 🔭 I’m currently working on **Zoom Meeting Speech to text translation**
 
 - 🌱 I’m currently learning **Android Development**
 
